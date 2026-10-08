@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1DjG6W3w3Fo2VmBEkB2WETTh1cchhG6hT
 """
 
-!pip install -q streamlit
 import streamlit as st
 st.title("أهلا بكم في موقعنا الأول باستخدام ستريم ليت")
 name=st.text_input("ما اسمك")
